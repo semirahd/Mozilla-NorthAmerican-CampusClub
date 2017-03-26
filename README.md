@@ -79,7 +79,7 @@ haven't yet thought of (and here we're *sure* you can) then please check out our
 [contributors' guidelines](CONTRIBUTING.md).
 
 Please note that it's very important to maintain a positive and supportive environment. Flowers grow with sunshine not shade! 
-When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
+
 
 
 ## Contact us
